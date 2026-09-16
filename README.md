@@ -14,7 +14,7 @@
 
 Hi! I'm **Arpita Ghorai**, an Electronics & Communication Engineering student at **Narula Institute of Technology**.
 
-- 🎓 ECE student (2024 – 2028), CGPA: 7.6
+- 🎓 ECE student (2024 – 2028), CGPA: 6.9
 - 💻 Programming in Python, C++, C, Java, and SQL
 - 🤖 Exploring Machine Learning & AI — NumPy, Pandas, NLP
 - 🔌 Also into Circuit Design & Simulation (Proteus) and Digital/Analog Electronics
